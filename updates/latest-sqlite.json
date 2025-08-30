@@ -1,4 +1,3 @@
-// FOR SHA2456 (Get-FileHash .\v1.0.0.zip -Algorithm SHA256).Hash
 {
   "version": "1.5.0",
   "released_at": "2025-08-27",
